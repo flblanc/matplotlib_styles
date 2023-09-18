@@ -1,0 +1,10 @@
+figure.dpi : 150
+font.family:sans-serif
+font.sans-serif:Arial
+font.size : 9.0
+legend.frameon : False
+axes.spines.right : False
+axes.spines.top : False
+pcolor.shading : auto
+xtick.labelsize : 8.0
+ytick.labelsize : 8.0
